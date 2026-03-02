@@ -2,7 +2,7 @@
 
 
 
-**Live site:** [smarkovics](https://smarkovics.github.io)
+**Live site:** [smarkovics](https://smarkovics.github.io/docs)
 
 ## Preview
 
