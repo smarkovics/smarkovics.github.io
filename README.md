@@ -1,8 +1,6 @@
 # Portfolio
 
-
-
-**Live site:** [smarkovics](https://smarkovics.github.io/docs)
+**Live site:** [smarkovics](https://smarkovics.github.io)
 
 ## Preview
 
@@ -27,4 +25,5 @@ python -m http.server 8000 -d docs/
 - `docs/styles.css` - Styling
 - `docs/script.js` - Functionality
 
+Modified version of website by [J Rosser](https://github.com/jrosseruk/jrosseruk.github.io/tree/master) :)
 Inspired by [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/) :)
