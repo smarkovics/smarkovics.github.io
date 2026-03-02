@@ -6,7 +6,7 @@
     <div class="timeline-header">
       <span class="timeline-org">Programming Languages</span>
     </div>
-    <div class="timeline-desc">c#</div>
+    <div class="timeline-desc">C#</div>
     <div class="timeline-desc">Small amounts of objective-c in relation to unity Game Center plugins</div>
     
   <div class="timeline-header">
@@ -28,4 +28,9 @@
       <span class="timeline-org">Dev Methodology</span>
     </div>
     <div class="timeline-desc">Scrum/ Agile, Kanban</div>
+
+  <div class="timeline-header">
+      <span class="timeline-org">Programming Knowledge</span>
+    </div>
+    <div class="timeline-desc">Gameplay, Prototyping, Unity editor tools, UI, AI </div>
 </div>
