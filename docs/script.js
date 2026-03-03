@@ -260,7 +260,7 @@ class LazyImageLoader {
 // Markdown content loader
 class MarkdownLoader {
     constructor() {
-        this.sections = ['about', 'projects', 'skills'];
+        this.sections = ['about', 'projects', 'skills', 'bluey'];
         this.init();
     }
 
@@ -386,16 +386,10 @@ document.addEventListener('DOMContentLoaded', () => {
     if (typeof window.applyBHoverEffect === 'function') {
         window.applyBHoverEffect(document.body);
     }
-
-    // Initialize party hat explosion feature
-    new PartyHatExplosion();
     
     // Add loading state management
     document.body.classList.add('loaded');
     
-    // Console message for developers
-    console.log('🌵 Portfolio site loaded successfully!');
-    console.log('🎉 Click the logo for a party surprise!');
     console.log('Built with inspiration from astro-theme-cactus');
 });
 
