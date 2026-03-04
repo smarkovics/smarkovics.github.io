@@ -29,7 +29,7 @@ Below are some projects that I have worked on.
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="/fnc.html" class="publication-link">
-                Fruit Ninja Classic Plus
+                Fruit Ninja Classic+
             </a>
         </h3>
         <div class="projects-description">Fruit Ninja Classic+ was a game I worked on while at Halfbrick. Its a variation of the normal Fruit Ninja designed to mimic the original look.</div>

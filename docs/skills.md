@@ -13,6 +13,11 @@
       <span class="timeline-org">Game Engines</span>
     </div>
     <div class="timeline-desc">Unity</div>
+
+  <div class="timeline-header">
+      <span class="timeline-org">Programming Knowledge</span>
+    </div>
+    <div class="timeline-desc">Gameplay, Prototyping, Unity editor tools, UI, AI </div>
     
    <div class="timeline-header">
       <span class="timeline-org">Version Control</span>
@@ -28,9 +33,4 @@
       <span class="timeline-org">Dev Methodology</span>
     </div>
     <div class="timeline-desc">Scrum/ Agile, Kanban</div>
-
-  <div class="timeline-header">
-      <span class="timeline-org">Programming Knowledge</span>
-    </div>
-    <div class="timeline-desc">Gameplay, Prototyping, Unity editor tools, UI, AI </div>
 </div>
