@@ -22,9 +22,6 @@
   </div>
 </div>
 
+I'm a generalist Unity programmer with 4+ years of experience in Unity and C#. I have experience in all the different areas of game development, **gameplay systems**, **UI**, **AI**, **physics**, and **performance optimisation**. I build clean, modular and scalable systems from **prototyping to production and further into postproduction**.
 
-//TODO add the about me info
-
-//example of link **[Link to something](https://www.google.com)**
-
-//example of emphasis **Emphasised**
+I’m comfortable implementing **core mechanics**, **debugging complex issues**, **optimising for different platforms**, and **collaborating** closely with designers and artists to turn ideas into polished features. I'm also comfortable liveopping an existing game.
