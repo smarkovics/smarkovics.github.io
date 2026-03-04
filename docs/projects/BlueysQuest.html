@@ -24,19 +24,16 @@
       <!-- Fixed Header -->
       <header id="main-header" class="group">
          <div class="header-grid">
-
             <!-- Title -->
             <div class="header-title">
-                <span class="text-xl font-bold sm:text-2xl">Stephen Markovics</span>
+               <span class="text-xl font-bold sm:text-2xl">Stephen Markovics</span>
             </div>
-
             <!-- Desktop Navigation -->
             <nav class="mobile-nav-menu header-nav sm:flex sm:flex-row sm:items-center" id="navigation-menu">
                <a href="/docs/#about">About</a>
                <a href="/docs/#projects">Projects</a>
                <a href="/docs/#skills">Skills</a>
             </nav>
-
             <!-- Controls -->
             <div class="header-controls flex items-center gap-3">
                <!-- Theme Toggle -->
@@ -58,67 +55,103 @@
                   </svg>
                </button>
             </div>
-
          </div>
       </header>
-
       <!-- Main Content -->
       <main class="mx-auto max-w-3xl px-4 sm:px-8">
-
-        <div class="projects-backgroundimage">
-        <img src="/docs/assets/BlueyKeyArtFull.png" alt="Bluey's Quest for the Gold Pen Key Art">
-        </div>
-
-      <div class="timeline">
-         <div class="timeline-item">
-            <div class="timeline-header">
-               <span class="timeline-role">Bluey's Quest for the Gold pen is an adventure game where the player sets off to get the gold pen from Dad.
-               Players navigate multiple worlds using a set of mechanics for each level to overcome simple puzzles and challenges.</span>
-            </div>
-            <div>
-               <span>
-                  <h3 class="projects-title">My Contributions</h3>
-               </span>
-            </div>
-            <div>
-               <span class="timeline-meta">I was involved in the project from the beginning of prototyping to the intial release on <b>Android</b>, <b>iOS</b> and <b>Mac</b>.</span>
-               <span class="timeline-meta">Here are a few of the areas I contributed to.</span>
-            </div>
-            <div><span>
-               </span>
-            </div>
-            <h3 class="projects-subtitle">
-               Gameplay
-            </h3>
-            <div class="projects-description">
-               <ul>
-                  <li>Brainstormed and implemented many different mechanics.</li>
-                  <li>Example 2</li>
-                  <li>Developed some editor tools to assist designers and artist in their work</li>
-               </ul>
-            </div>
-            <h3 class="projects-subtitle">Boss Fight</h3>
-            <div>
-               <span class="timeline-meta">I was also heavily involved in the design and developement of the final level's boss fight. Some of the areas I worked on include.</span>
+         <div class="projects-backgroundimage">
+            <img src="/docs/assets/BlueyKeyArtFull.png" alt="Bluey's Quest for the Gold Pen Key Art">
+         </div>
+         <div class="timeline">
+            <div class="timeline-item">
+               <div class="timeline-header">
+                  <span class="timeline-role">Bluey's Quest for the Gold pen is an adventure game where the player sets off to get the gold pen from Dad.
+                  Players navigate multiple worlds using a set of mechanics for each level to overcome simple puzzles and challenges.</span>
+               </div>
+               <div>
+                  <span>
+                     <h3 class="projects-title">My Contributions</h3>
+                  </span>
+               </div>
+               <div>
+                  <span class="timeline-meta">I was involved in the project from the beginning of prototyping to the intial release on <b>Android</b>, <b>iOS</b> and <b>Mac</b>.</span>
+                  <span class="timeline-meta">Here are a few of the areas I contributed to.</span>
+               </div>
+               <div><span>
+                  </span>
+               </div>
+               <h3 class="projects-subtitle">
+                  Game Systems
+               </h3>
                <div class="projects-description">
                   <ul>
-                     <li>Brainstormed, prototyped and inplemented gameplay segments.</li>
-                     <li>Setup the level sequences </li>
-                     <li>Example 3</li>
+                     <li><b>UI Manager and Screens</b></li>
+                     <li><b>Player Controller</b></li>
+                     <li><b>Physics System</b></li>
+                     <li><b>Quest</b> Controller</li>
+                     <li><b>Save</b> Controller</li>
+                     <li><b>Input</b> Controller</li>
                   </ul>
                </div>
+               <h3 class="projects-subtitle">
+                  Gameplay
+               </h3>
+               <div class="projects-description">
+                  <ul>
+                     <li>Brainstormed and implemented many different mechanics.</li>
+                     <li>Developed some editor tools to assist designers and artist in their work</li>
+                  </ul>
+               </div>
+               <h3 class="projects-subtitle">Boss Fight</h3>
+               <div>
+                  <span class="timeline-meta">I was also heavily involved in the design and developement of the final level's boss fight. Some of the areas I worked on include.</span>
+                  <div class="projects-description">
+                     <ul>
+                        <li>Brainstormed, prototyped and inplemented gameplay segments.</li>
+                        <li>Setup the level sequences and progress</li>
+                        <li>Modified multiple systems designed for a single camera angle to work with a rotating camera</li>
+                     </ul>
+                  </div>
+               </div>
             </div>
-            What did I do
-            //link to game
-            screen shots and video
-            small blurb about the Gameplay
-            </div></div></main>
-            <!-- Footer -->
-            <div class="mx-auto max-w-3xl px-4 sm:px-8 py-8 text-center text-sm opacity-75">
-               <p>Stephen Markovics 2026</p>
+         </div>
+         <!-- Slideshow container -->
+         <div class="slideshow-container">
+            <!-- Full-width images with number and caption text -->
+            <div class="mySlides fade">
+               <img src="/docs/assets/BlueyGameplay1.PNG" style="width:100%">
             </div>
-         
-      
+            <div class="mySlides fade">
+               <img src="/docs/assets/BlueyGameplay2.PNG" style="width:100%">
+            </div>
+            <div class="mySlides fade">
+               <img src="/docs/assets/BlueyGameplay3.PNG" style="width:100%">
+            </div>
+            <div class="mySlides fade">
+               <img src="/docs/assets/BlueyGameplay4.PNG" style="width:100%">
+            </div>
+            <div class="mySlides fade">
+               <img src="/docs/assets/BlueyGameplay5.PNG" style="width:100%">
+            </div>
+            <!-- Next and previous buttons -->
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+            <div style="text-align:center">
+               <span class="dot" onclick="currentSlide(1)"></span>
+               <span class="dot" onclick="currentSlide(2)"></span>
+               <span class="dot" onclick="currentSlide(3)"></span>
+               <span class="dot" onclick="currentSlide(4)"></span>
+               <span class="dot" onclick="currentSlide(5)"></span>
+            </div>
+         </div>
+         <div class="projects-video">
+            <iframe width="750" height="500" src="https://www.youtube.com/embed/oKU8x4jIFO8" title="Bluey&#39;s Quest for the Gold Pen - Official Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+         </div>
+      </main>
+      <!-- Footer -->
+      <div class="mx-auto max-w-3xl px-4 sm:px-8 py-8 text-center text-sm opacity-75">
+         <p>Stephen Markovics 2026</p>
+      </div>
       <script src="/docs/script.js"></script>
    </body>
 </html>

@@ -6,7 +6,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/docs/projects/BlueysQuest.html" class="publication-link">
+            <a href="/projects/BlueysQuest.html" class="publication-link">
                 Bluey's Quest for the Gold Pen
             </a>
         </h3>
