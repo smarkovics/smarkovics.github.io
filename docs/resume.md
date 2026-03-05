@@ -1,6 +1,6 @@
 # Contact Me
 
-Thanks for taking a look at my portfolio. If you would like to get in touch please feel free to reach out through email or LinkdIn below
+Thanks for taking a look at my portfolio. If you would like to get in touch please feel free to reach out through email or linkedIn below
 
 <div class="mx-auto max-w-3xl px-4 sm:px-8 py-8 text-center text-sm opacity-75">
   <a href="mailto:smarkovics00@gmail.com" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:var(--color-accent-2);">
