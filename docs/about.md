@@ -1,5 +1,5 @@
 <div class="about-header">
-  <img src="assets/profile.jpg" alt="Portrait of Stephen Markovics" class="about-avatar" width="160" height="160" loading="lazy" />
+  <!--<img src="assets/profile.jpg" alt="Portrait of Stephen Markovics" class="about-avatar" width="160" height="160" loading="lazy" />-->
   <div class="about-header-content">
     <h1 class="title">Hi I'm Stephen!</h1>
     <div class="about-socials" style="display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;margin-top:0.5rem;">
@@ -22,6 +22,6 @@
   </div>
 </div>
 
-I'm a generalist Unity programmer with 4+ years of experience in Unity and C#. I have experience in all the different areas of game development, **gameplay systems**, **UI**, **AI**, **physics**, and **performance optimisation**. I build clean, modular and scalable systems from **prototyping to production and further into postproduction**.
+I'm a generalist Unity programmer with 6+ years of experience in Unity and C#. I have experience in all the different areas of game development, **gameplay systems**, **UI**, **AI**, **physics**, and **performance optimisation**. I build clean, modular and scalable systems from **prototyping to production and further into postproduction**.
 
 I’m comfortable implementing **core mechanics**, **debugging complex issues**, **optimising for different platforms**, and **collaborating** closely with designers and artists to turn ideas into polished features. I'm also comfortable liveopping an existing game.
