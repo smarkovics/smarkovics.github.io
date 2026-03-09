@@ -21,9 +21,10 @@ python -m http.server 8000 -d docs/
 ## Structure
 
 - `docs/index.html` - Main page
-- `docs/*.md` - Content (about, publications, resume)
+- `docs/*.md` - Content (about, Projects, Skills, resume)
+- `docs/*.html` - Specific Project pages
 - `docs/styles.css` - Styling
 - `docs/script.js` - Functionality
 
-Modified version of website by [J Rosser](https://github.com/jrosseruk/jrosseruk.github.io/tree/master) :)
-Inspired by [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/) :)
+Modified version of website by [J Rosser](https://github.com/jrosseruk/jrosseruk.github.io/tree/master)
+Inspired by [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/)
