@@ -60,7 +60,11 @@
       <!-- Main Content -->
       <main class="mx-auto max-w-3xl px-4 sm:px-8">
          <div class="projects-backgroundimage">
-            <img src="/assets/FruitNinjaClassicPlusKeyArt.jpg" alt="Fruit Ninja Classic Plus Key Art">
+            <object data="/assets/FruitNinjaClassicPlusKeyArt.jpg" type="image/jpg">
+  <img src="/docs/assets/FruitNinjaClassicPlusKeyArt.jpg" alt="Fruit Ninja Classic Plus Key Art">/>
+</object>
+           <!--  <img src="/assets/FruitNinjaClassicPlusKeyArt.jpg" alt="Fruit Ninja Classic Plus Key Art"> -->
+           <!--  <img src="/docs/assets/FruitNinjaClassicPlusKeyArt.jpg" alt="Fruit Ninja Classic Plus Key Art">-->
          </div>
          <div class="timeline">
             <div class="timeline-item">
@@ -123,8 +127,10 @@
                <span class="dot" onclick="currentSlide(4)"></span>
             </div>
          </div>
-         <div class="projects-video">
+         <div class="video-wrap">
+            <div class="video-container">
             <iframe width="750" height="500" src="https://www.youtube.com/embed/8eGr6UsLDA0" title="[Apple Arcade] Fruit Ninja Classic+ [Gameplay]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
          </div>
       </main>
       <!-- Footer -->
@@ -150,5 +156,6 @@
          </a>
       </div>
       <script src="/script.js"></script>
+      <script src="/docs/script.js"></script>
    </body>
 </html>
